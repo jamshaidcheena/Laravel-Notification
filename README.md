@@ -1,1 +1,1 @@
-# Laravel-Notification
+# Laravel-Notification-basic
